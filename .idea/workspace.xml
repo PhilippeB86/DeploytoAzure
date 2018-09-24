@@ -258,7 +258,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/../DeployToAzure/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/../1-MyNodeServer/index.js" />
         <option value="$PROJECT_DIR$/routes/about.js" />
         <option value="$PROJECT_DIR$/app_server/routes/index.js" />
@@ -441,7 +441,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../azure-package.json" />
-    <entry file="file://$PROJECT_DIR$/../DeployToAzure/package.json" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/../1-MyNodeServer/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
